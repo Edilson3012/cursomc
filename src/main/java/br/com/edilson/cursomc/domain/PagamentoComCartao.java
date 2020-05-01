@@ -1,7 +1,5 @@
 package br.com.edilson.cursomc.domain;
 
-import java.io.Serializable;
-
 import javax.persistence.Entity;
 
 import br.com.edilson.cursomc.domain.enums.EstadoPagamento;
